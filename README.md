@@ -1,3 +1,3 @@
 # Udemy React - The Complete Guide
 
-This is the first project from the Udemy React Course
+Section 3, 4 from Udemy React Course
